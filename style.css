@@ -1,0 +1,13 @@
+/* Write your CSS here! */
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+  color: green;
+}
+
+footer {
+  margin: 8px;
+  display: block;
+}
